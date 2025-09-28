@@ -127,3 +127,40 @@ margin: 0;
     font-size: large;
     font-weight: bold;
 }
+
+.Final{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(200, 200, 209);
+    text-align: left;
+    gap: 20px;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Final h2{
+    margin-bottom: 0px;
+    font-weight: bolder;
+}
+.Final p{
+    margin-top: 2px;
+    font-size: large;
+    font-weight: bold;
+}
+.Final .gifPeakDancing img{
+    width: 50px;
+    height: auto;
+    display: block;
+}
+.gifFinal img{
+    
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+
+
+    width: 420px;
+    height: auto;
+    display: block;
+
+}
